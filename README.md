@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](C:\Users\serba\Desktop\front-end\front-end mentor\qr-code-component-main\images\Screenshot.png)
+![project_screenshot](https://github.com/Filip290/qr-code/blob/main/images/Screenshot.png)
 
 ### Link
 
-- Solution URL: [https://github.com/Filip290/qr-code.git]
+- Solution URL: [qr-code.git](https://github.com/Filip290/qr-code.git)
 
 ## My process
 
@@ -41,5 +41,5 @@ I want to take on future projects that will challenge me more, I'm curious how f
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [https://www.linkedin.com/in/filip-serban-983aa62a0/]
+- Frontend Mentor - [@Filip290](https://www.frontendmentor.io/profile/Filip290)
+- Linkedin - [Filip Serban](https://www.linkedin.com/in/filip-serban-983aa62a0/)
